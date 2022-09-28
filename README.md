@@ -27,7 +27,6 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=asomania&layout=compact&langs_count=8&theme=tokyonight"/>
 </a></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=asomania&show_icons=true&locale=en" alt="asomania" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=asomania&" alt="asomania" /></p>
+
 
