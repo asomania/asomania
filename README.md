@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=asomania&label=Profile%20views&color=0e75b6&style=flat" alt="asomania" /> </p>
-
+<div> <img src="https://wakatime.com/badge/user/5f99ba0b-98fe-462d-995f-f0e209e0febe.svg"/> </div>
 - 🔭 I’m currently working on [animal catalog](https://github.com/asomania/Animal-Catalog)
 
 - 🌱 I’m currently learning **Vuetify**
