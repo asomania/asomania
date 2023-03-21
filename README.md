@@ -5,9 +5,9 @@
 <div align="center"> <a href="https://wakatime.com/@asomania" target="_blank"><img src="https://wakatime.com/badge/user/5f99ba0b-98fe-462d-995f-f0e209e0febe.svg"/></a> </div>
 - 🔭 I’m currently working on [Vuetify-Crypto app](https://github.com/asomania/crypto-vueApp)
 
-- 🌱 I’m currently learning **Vuetify**
+- 🌱 I’m currently learning **Next.JS**
 
-- 💬 Ask me about **vue**
+- 💬 Ask me about **Front-end**
 
 
 <h3 align="left">Connect with me:</h3>
