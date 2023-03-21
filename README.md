@@ -2,7 +2,7 @@
 <h3 align="center">A passionate frontend developer from Turkey</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=asomania&label=Profile%20views&color=0e75b6&style=flat" alt="asomania" /> </p>
-<div align="center"> <a href="https://wakatime.com/@asomania"><img src="https://wakatime.com/badge/user/5f99ba0b-98fe-462d-995f-f0e209e0febe.svg"/></a> </div>
+<div align="center"> <a href="https://wakatime.com/@asomania" target="_blank"><img src="https://wakatime.com/badge/user/5f99ba0b-98fe-462d-995f-f0e209e0febe.svg"/></a> </div>
 - 🔭 I’m currently working on [Vuetify-Crypto app](https://github.com/asomania/crypto-vueApp)
 
 - 🌱 I’m currently learning **Vuetify**
