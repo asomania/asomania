@@ -9,7 +9,6 @@
 <p align="left">
 <a href="https://codepen.io/asomania" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="asomania" height="30" width="40" /></a>
 <a href="https://twitter.com/erenxkck" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="erenxkck" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/eren-kucuk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="eren-kucuk" height="30" width="40" /></a>
 <a href="https://medium.com/@asomaniadev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="asomaniadev" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/eren küçük" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="eren küçük" height="30" width="40" /></a>
 </p>
